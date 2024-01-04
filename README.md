@@ -5,6 +5,11 @@
 Name - Course-Year - GDSC chapter
 
 Juan Luna - BSIT-4 - GDSC STI CDO
+Gerald Helbiro Jr. CS1A - USTP CDO
+Hans del mondo - CS1A - USTP CDO
+milan. CS1A - USTP CDO
+vin. CS1A - USTP CDO
+bea. CS1A - USTP CDO
 
 This directory contains Android and iOS projects that import and use a Flutter
 module. They're designed to show recommended approaches for adding Flutter to
