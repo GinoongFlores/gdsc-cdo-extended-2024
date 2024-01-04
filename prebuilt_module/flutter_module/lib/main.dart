@@ -63,7 +63,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Main',
+      title: 'Flutter DEV',
       theme: ThemeData.dark(useMaterial3: true),
       routes: { 
         '/': (context) => const FullScreenView(),
