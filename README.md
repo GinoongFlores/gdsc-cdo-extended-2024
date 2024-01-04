@@ -1,5 +1,11 @@
 # Add-to-App Samples
 
+# extended attendee! 
+
+Name - Course-Year - GDSC chapter
+
+Juan Luna - BSIT-4 - GDSC STI CDO
+
 This directory contains Android and iOS projects that import and use a Flutter
 module. They're designed to show recommended approaches for adding Flutter to
 existing Android and iOS apps.
